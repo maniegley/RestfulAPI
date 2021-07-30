@@ -43,7 +43,8 @@
 
 
 
-        // create product
+        // create user
+        // Creating user
         function create(){
   
             // query to insert record
